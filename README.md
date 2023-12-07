@@ -1,5 +1,5 @@
 # Hill-Climbing-Optimization-Algorithm
-This repository contains a Python implementation of the Hill Climbing optimization algorithm applied to a minimisation fitness function.
+This repository contains a Python implementation of a simple Hill Climbing optimization algorithm applied to a minimisation fitness function. A Hill Climbing algorithm, is alocal search algorithm that starts with an initial solution and, with each iteration, makes minor changes to the current solution in the direction that improves the fitness value (utility) of the optimization function.
 
 ## Getting Started
 These instructions will help you get a copy of the project up and running on your local machine.
